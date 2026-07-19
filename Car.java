@@ -1,5 +1,5 @@
 class User{
   int userId=101;
   int userSalary=5000000000000000;
-  boolean b=true;
+  String s="Amit";
   }
