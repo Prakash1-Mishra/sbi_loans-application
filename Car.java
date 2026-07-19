@@ -1,0 +1,4 @@
+class User{
+  int userId=101;
+  int userSalary=2000;
+  }
