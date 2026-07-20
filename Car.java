@@ -1,6 +1,7 @@
 class User{
   int userId=101;
   int userSalary=5000000000000000;
+<<<<<<< HEAD
   String s="Shubhi";
 <<<<<<< Updated upstream
   
@@ -12,6 +13,9 @@ class User{
   int i=0;
   int j=23;
       
+=======
+  String s="Kartik";
+>>>>>>> parent of 64f50ba (added double)
 
   }
 }
